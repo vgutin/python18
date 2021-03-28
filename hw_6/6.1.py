@@ -1,4 +1,4 @@
-import show_rating as sr
+import show_rating as sr # подключаем ранее написанные функции shows_by_genre, rating_averange как модуль sr
 
 user_shows = {
     'Секретные материалы': 'фантастика',
